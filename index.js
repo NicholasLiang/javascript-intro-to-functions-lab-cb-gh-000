@@ -1,4 +1,4 @@
-shout(string) = string.toUpperCase()
+shout(string) = string.toUpperCase();
 
 
 
