@@ -4,7 +4,7 @@ var LogShout = (string) => console.log(shout(string))
 var LogWhisper = (string) => console.log(whisper(string))
 var sayHiToGrandma = function(string) {
   if (string == whisper(string))
-  
+    return "I can\'t hear you!"
 }
 
 
