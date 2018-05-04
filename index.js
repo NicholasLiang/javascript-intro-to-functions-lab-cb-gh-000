@@ -1,5 +1,5 @@
 var shout = (string) => string.toUpperCase();
-
+var whisper = (string) => string.toLowerCase();
 
 
 
