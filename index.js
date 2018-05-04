@@ -1,6 +1,6 @@
 var shout = (string) => string.toUpperCase();
 var whisper = (string) => string.toLowerCase();
-var LogWhisper = (string) => 
+var LogWhisper = (string) => console.log()
 
 
 
