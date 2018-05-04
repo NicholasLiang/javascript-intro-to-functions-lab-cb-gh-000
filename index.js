@@ -8,6 +8,7 @@ var sayHiToGrandma = function(string) {
   else if (string == shout(string))
     return "YES INDEED!"
   else
+    return "I love you, too."
 }
 
 
