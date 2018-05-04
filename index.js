@@ -1,4 +1,4 @@
-var shout = toUpperCase(string);
+var shout = (string) = toUpperCase(string);
 
 
 
